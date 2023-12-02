@@ -1,0 +1,76 @@
+#vertical_line{
+    height:70px;
+    border:1px rgb(12, 11, 11);
+}
+
+#nav_delhivery>h5{
+    margin: 0px;
+    font-weight: 800;
+}
+
+#nav-delhivery>p{
+ margin:0px;
+}
+#search_div{
+    border:1 px solid #eeeeee;
+    background-color:  #f8f8f8;
+    border-radius: 5px;
+    padding-inline: 10px;
+    width:40vw;
+}
+
+#search_div>input{
+    border:none;
+    background-color: transparent;
+    width: 95%;
+    height: 45px;
+}
+
+.cards_section,.products-section{
+    width: 85vw;
+    margin: auto; 
+}
+
+.scroll_div{
+    white-space: nowrap;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+#categories_section{
+    width:85vw;
+    margin:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.my-card{
+    width:200px;
+    display: inline-block !important;
+    margin-right: 20px;
+    margin-top:20px
+}
+
+.time_div{
+    background-color: #f8f8f8;
+    width:fit-content;
+    font-weight:700;
+    border-radius:5px;
+    padding-inline:5px;
+}
+
+.product-title{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.product-weight{
+    color: #6a6a6a;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
